@@ -11,3 +11,4 @@
 # chmod a+x recovery.sh
 # chmod a+x rom.sh
 # chmod a+x clean.sh
+# repo sync
