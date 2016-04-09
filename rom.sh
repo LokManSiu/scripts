@@ -7,4 +7,4 @@ git clone https://github.com/bjsiu/android_system_core.git -b cm-12.1 system/cor
 git clone https://github.com/bjsiu/android_system_netd.git -b cm-12.1 system/netd
 git clone https://github.com/bjsiu/android_hardware_libhardware.git -b cm-12.1 hardware/libhardware
 git clone https://github.com/bjsiu/android_hardware_libhardware_legacy.git -b cm-12.1 hardware/libhardware_legacy
-git clone https://github.com/bjsiu/android_bootable_recovery.git bootable/recovery
+git clone https://github.com/bjsiu/android_bootable_recovery.git android-6.0 bootable/recovery
