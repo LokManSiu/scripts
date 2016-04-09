@@ -6,5 +6,5 @@ rm -rf device/xiaomi/hermes
 rm -rf system/core
 rm -rf system/netd
 rm -rf hardware/libhardware
-rm -rf hardware/libhardware/legacy
+rm -rf hardware/libhardware_legacy
 rm -rf bootable/recovery
