@@ -1,4 +1,13 @@
 #!/bin/bash
+mkdir -p vendor/mediatek
+mkdir -p vendor/xiaomi/hermes
+mkdir -p packages/apps/Settings
+mkdir -p device/xiaomi/hermes
+mkdir -p system/core
+mkdir -p system/netd
+mkdir -p hardware/libhardware
+mkdir -p hardware/libhardware_legacy
+mkdir -p bootable/recovery
 rm -r vendor/mediatek/*
 rm -r vendor/xiaomi/hermes/*
 rm -r packages/apps/Settings/*
