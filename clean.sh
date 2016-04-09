@@ -1,10 +1,10 @@
 #!/bin/bash
-rm -rf vendor/mediatek
-rm -rf vendor/xiaomi/hermes
-rm -rf packages/apps/Settings
-rm -rf device/xiaomi/hermes
-rm -rf system/core
-rm -rf system/netd
-rm -rf hardware/libhardware
-rm -rf hardware/libhardware_legacy
-rm -rf bootable/recovery
+rm -r vendor/mediatek/*
+rm -r vendor/xiaomi/hermes/*
+rm -r packages/apps/Settings/*
+rm -r device/xiaomi/hermes/*
+rm -r system/core/*
+rm -r system/netd/*
+rm -r hardware/libhardware/*
+rm -r hardware/libhardware_legacy/*
+rm -r bootable/recovery/*
